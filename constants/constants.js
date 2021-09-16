@@ -1,10 +1,11 @@
 const screens = {
     main_layout: "MainLayout",
-    home: "Home",
-    search: "Search",
-    cart: "Cart",
-    favourite: "Favourite",
-    notification: "Notification",
+    home: "Домой",
+    search: "Поиск",
+    cart: "Карточкалар",
+    favourite: "Любимийдер",
+    notification: "Дабылдар",
+    my_wallet: "Менің кашелегім",
 }
 
 const bottom_tabs = [
